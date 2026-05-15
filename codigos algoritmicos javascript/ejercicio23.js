@@ -1,3 +1,4 @@
+console.log("Calcular salario total con horas extra");
 salario =1500000;
 horasExtra = 15;
 

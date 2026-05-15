@@ -1,3 +1,4 @@
+
 salario = float(input("Ingrese salario base: "))
 horas_extra = int(input("Ingrese horas extra: "))
 
@@ -21,3 +22,4 @@ if salario > 0:
 
 else:
     print("El salario debe ser mayor a 0")
+

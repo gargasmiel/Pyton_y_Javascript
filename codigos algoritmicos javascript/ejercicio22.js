@@ -1,3 +1,4 @@
+
 console.log("solicitar lados e indicar tipo de triángulo");
 lado1=12;
 lado2=12;

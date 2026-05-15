@@ -1,3 +1,4 @@
+
 console.log("clasificar edad");
 edad = 1;
 if (edad >= 0 && edad <= 12) {
