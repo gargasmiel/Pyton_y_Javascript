@@ -1,11 +1,11 @@
 console.log("solicitar lados e indicar tipo de triángulo");
-lado1=14;
-lado2=7;
-lado3=7;
+lado1=12;
+lado2=12;
+lado3=12;
 if(lado1==lado2 && lado2==lado3){
     console.log("Triángulo equilátero");
-}else if(lado1==lado2 || lado1==lado3 || lado2==lado3){
+} else if(lado1==lado2 || lado1==lado3 || lado2==lado3){
     console.log("Triángulo isósceles");
-}else{
+} else {
     console.log("Triángulo escaleno");
 }

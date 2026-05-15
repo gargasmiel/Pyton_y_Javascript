@@ -1,13 +1,14 @@
 console.log("clasificar edad");
-let edad = 15;
+edad = 1;
 if (edad >= 0 && edad <= 12) {
     console.log("Niño");
-} else if (edad >= 13 && edad <= 17) {
+}  if (edad >= 13 && edad <= 17) {
     console.log("Adolescente");
-} else if (edad >= 18 && edad <= 59) {
+}  if (edad >= 18 && edad <= 59) {
     console.log("Adulto");
-} else if (edad >= 65 && edad <= 100) {
+}  if (edad >= 65 && edad <= 100) {
     console.log("Anciano");
-} else {
+} 
+else if(edad > 100){
     console.log("Ya estás muerto");
 }
